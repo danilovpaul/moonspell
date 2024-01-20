@@ -1,0 +1,9 @@
+{
+  "name": "moonspell",
+  "version": "0.0.0",
+  "license": "MIT",
+  "workspaces": [
+    "apps/api",
+    "apps/web"
+  ]
+}
